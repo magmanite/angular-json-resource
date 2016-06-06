@@ -1,0 +1,15 @@
+{
+  "name": "json-resource",
+  "description": "Load JSON resource within HTML page.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Hendri Kurniawan",
+    "email": "hendri@magmanite.com",
+    "url": "http://magmanite.com"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/magmanite/angular-json-resource.git"
+  }
+}
